@@ -12,7 +12,7 @@ Features
 
 How to Play
 - Start the game using the buttons
-- Move teh bin using the arrow keys
+- Move the bin using the arrow keys
 - Try catch as much trash as possible
 - Have fun customizing your bin!
 - Good luck!
