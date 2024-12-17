@@ -19,5 +19,4 @@ How to Play
 
 Technologies
 - html
-- css
-- Javascript
+- javascript
